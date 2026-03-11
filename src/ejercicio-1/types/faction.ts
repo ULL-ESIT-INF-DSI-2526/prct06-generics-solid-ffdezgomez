@@ -1,0 +1,1 @@
+export type Faction = 'Republic' | 'Empire' | 'Sith' | 'Independent'

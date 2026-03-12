@@ -1,0 +1,1 @@
+export type PlatoType = 'Entrante' | 'Principal' | 'Guarnicion' | 'Postre'
